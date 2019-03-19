@@ -1,2 +1,2 @@
-# hello-world
-just for testing , i create this repository.
+i am mazharul islam emon and i am a front-end developer.
+ppractise and learning is the key of success in programming .
